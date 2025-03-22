@@ -23,4 +23,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: generated-file
-        path: hdd.img
+        path: boot/x86/hdd.img
